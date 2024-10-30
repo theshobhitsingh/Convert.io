@@ -2,23 +2,17 @@
 
 Convert.io leverages cutting-edge technology to provide a seamless multimedia conversion experience. Here’s an overview of the tech stack and usage details.
 
-## Technology Stack
+## Tech Stack
 
-### 1. **Frontend**
-- **React**: A JavaScript library for building user interfaces, enabling a dynamic and responsive user experience.
-- **Next.js**: A React framework that allows for server-side rendering and static site generation, enhancing performance and SEO.
-- **Tailwind CSS**: A utility-first CSS framework that provides customizable styling options, ensuring a modern and attractive design.
+Convert.io is built using the following technologies:
 
-### 2. **Backend**
-- **Node.js**: A JavaScript runtime that allows for building scalable network applications, ensuring fast processing of multimedia conversion requests.
-- **Express.js**: A web application framework for Node.js, facilitating the creation of robust APIs to handle conversion tasks.
+- ✅ **Next.js 13**: A React framework for server-side rendering and static site generation.
+- ✅ **Tailwind CSS**: A utility-first CSS framework for styling and responsive design.
+- ✅ **Shadcn/ui**: A component library for building UI elements with ease.
+- ✅ **WebAssembly**: For high-performance applications, enhancing multimedia processing capabilities.
+- ✅ **FFmpeg**: A powerful multimedia framework for audio and video processing.
 
-### 3. **Media Processing**
-- **FFmpeg**: A powerful multimedia framework used for audio and video processing. It enables various conversion tasks, such as changing formats, resizing, and merging files.
-- **Sharp**: An image processing library that allows for efficient image manipulation, including resizing and format conversion.
-
-### 4. **Cloud Infrastructure**
-- **AWS (Amazon Web Services)**: Utilized for scalable cloud storage and processing power. Services like S3 for storing converted files and EC2 for running backend processes ensure reliability and speed.
+These technologies work together to provide a seamless multimedia conversion experience.
 
 ## Usage
 
