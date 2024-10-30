@@ -1,4 +1,4 @@
-# About Convert.io
+# Convert.io
 
 Convert.io leverages cutting-edge technology to provide a seamless multimedia conversion experience. Here’s an overview of the tech stack and usage details.
 
