@@ -30,4 +30,4 @@ These technologies work together to provide a seamless multimedia conversion exp
 - **Responsive Design**: Accessible on any device—desktop, tablet, or smartphone—ensuring a consistent experience across platforms.
 
 ### Support
-For any questions or technical support, feel free to reach out via our contact page. We are here to help you make the most of Convert.io!
+For any questions or technical support, feel free to reach out via our contact page. I am here to help you make the most of Convert.io!
