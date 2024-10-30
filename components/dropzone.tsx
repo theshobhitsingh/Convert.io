@@ -1,6 +1,5 @@
 "use client";
 
-// imports
 import { FiUploadCloud } from "react-icons/fi";
 import { LuFileSymlink } from "react-icons/lu";
 import { MdClose } from "react-icons/md";
@@ -97,7 +96,6 @@ export default function Dropzone() {
     "video/*": [],
   };
 
-  // functions
   const reset = () => {
     setIsDone(false);
     setActions([]);
@@ -119,7 +117,6 @@ export default function Dropzone() {
     document.body.appendChild(a);
     a.click();
 
-    // Clean up after download
     URL.revokeObjectURL(action.url);
     document.body.removeChild(a);
   };
@@ -227,7 +224,6 @@ export default function Dropzone() {
     setIsLoaded(true);
   };
 
-  // returns
   if (actions.length) {
     return (
       <div className="space-y-6">

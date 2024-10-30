@@ -7,7 +7,7 @@ export default function PrivacyPolicy() {
       <h1 className="text-3xl md:text-4xl font-bold text-white mb-6 glow">
         Privacy Policy
       </h1>
-      <p className="text-gray-200">Effective Date: Friday November 1, 2024</p>
+      <p className="text-gray-200">Effective Date: Sun 29 Oct 2023</p>
       <p className="text-gray-200">
         At Convert.io, I'm committed to safeguarding your privacy. This Privacy
         Policy outlines our practices regarding the collection, use, and

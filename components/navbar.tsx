@@ -1,4 +1,3 @@
-// imports
 import Image from "next/image";
 import { Button } from "./ui/button";
 import Link from "next/link";
@@ -25,7 +24,6 @@ export default function Navbar({}): any {
           width={80}
         />
         <span className="ml-2 text-lg font-semibold">𝙲𝚘𝚗𝚟𝚎𝚛𝚝.𝚒𝚘</span>{" "}
-        {/* Company name */}
       </Link>
       <div className="hidden gap-1 md:gap-2 lg:gap-4 md:flex">
         <Button variant="ghost" className="font-semibold text-md">
@@ -74,7 +72,7 @@ export default function Navbar({}): any {
                       variant="link"
                       className="w-full font-semibold text-md"
                     >
-                      Home
+                      𝐇𝐨𝐦𝐞
                     </Button>
                   </Link>
                 </SheetTrigger>
@@ -84,7 +82,7 @@ export default function Navbar({}): any {
                       variant="link"
                       className="w-full font-semibold text-md"
                     >
-                      About
+                      𝐀𝐛𝐨𝐮𝐭
                     </Button>
                   </Link>
                 </SheetTrigger>
@@ -94,7 +92,7 @@ export default function Navbar({}): any {
                       variant="link"
                       className="w-full font-semibold text-md"
                     >
-                      Privacy Policy
+                      𝐏𝐫𝐢𝐯𝐚𝐜𝐲 𝐏𝐨𝐥𝐢𝐜𝐲
                     </Button>
                   </Link>
                 </SheetTrigger>

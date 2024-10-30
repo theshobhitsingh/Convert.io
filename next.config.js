@@ -8,6 +8,6 @@
 // next.config.js
 module.exports = {
   images: {
-    domains: ['external-content.duckduckgo.com'], // Add this line
+    domains: ["external-content.duckduckgo.com"], // Add this line
   },
 };
