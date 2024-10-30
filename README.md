@@ -13,7 +13,6 @@ Convert.io is built using the following technologies:
 - ✅ **FFmpeg**: A powerful multimedia framework for audio and video processing.
 
 These technologies work together to provide a seamless multimedia conversion experience.
-**AWS (Amazon Web Services)**: Utilized for scalable cloud storage and processing power. Services like S3 for storing converted files and EC2 for running backend processes ensure reliability and speed.
 
 ## Usage
 
